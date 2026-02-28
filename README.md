@@ -1,4 +1,4 @@
-# Welcome to our prototyple project
+# Welcome to our prototyle project
 
 ## Project info
 
