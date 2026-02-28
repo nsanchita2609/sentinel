@@ -1,10 +1,10 @@
-# Welcome to our prototyle project
+# Welcome to our prototyle 
 
-## Project info
+## Prototype info
 
 ## What technologies are used for this prototype?
 
-This project is built with:
+This prototype is built with:
 
 - Vite
 - TypeScript
